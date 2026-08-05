@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Credit Academy">
+  <rect x="26" y="26" width="460" height="460" rx="105" fill="#C4187C"/>
+  <g fill="none" stroke-linecap="butt">
+    <!-- white separators / edge base -->
+    <path d="M135.5 300 A120.5 120.5 0 0 1 376.5 300" stroke="#ffffff" stroke-width="85"/>
+    <!-- gauge segments: red orange amber green blue -->
+    <path d="M135.5 300 A120.5 120.5 0 0 1 155.9 233.0" stroke="#E7362B" stroke-width="77"/>
+    <path d="M161.3 225.5 A120.5 120.5 0 0 1 214.4 186.9" stroke="#F5821F" stroke-width="77"/>
+    <path d="M222.4 184.3 A120.5 120.5 0 0 1 289.6 184.3" stroke="#F9A61C" stroke-width="77"/>
+    <path d="M297.6 186.9 A120.5 120.5 0 0 1 350.7 225.5" stroke="#5EC806" stroke-width="77"/>
+    <path d="M356.1 233.0 A120.5 120.5 0 0 1 376.5 300" stroke="#00A5E2" stroke-width="77"/>
+  </g>
+  <!-- needle + hub -->
+  <line x1="256" y1="300" x2="389" y2="241" stroke="#2D2D2D" stroke-width="20" stroke-linecap="round"/>
+  <circle cx="256" cy="300" r="28" fill="#2D2D2D"/>
+</svg>
